@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\login registration\obj\Debug\login registration.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\login registration\obj\Debug\login_registration.login.resources
+C:\Users\user\Desktop\login registration\obj\Debug\login_registration.Properties.Resources.resources
+C:\Users\user\Desktop\login registration\obj\Debug\login registration.csproj.GenerateResource.cache
+C:\Users\user\Desktop\login registration\obj\Debug\login registration.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\login registration\bin\Debug\login registration.exe.config
+C:\Users\user\Desktop\login registration\bin\Debug\login registration.exe
+C:\Users\user\Desktop\login registration\bin\Debug\login registration.pdb
+C:\Users\user\Desktop\login registration\obj\Debug\login registration.exe
+C:\Users\user\Desktop\login registration\obj\Debug\login registration.pdb
+C:\Users\user\Desktop\login registration\obj\Debug\login_registration.Dashboard.resources
+C:\Users\user\Desktop\login registration\obj\Debug\login_registration.AddBooks.resources
+C:\Users\user\Desktop\login registration\obj\Debug\login_registration.ViewBook.resources
